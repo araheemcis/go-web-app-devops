@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
    repository1: araheemcis/python-django-ar4hello
-   repository2: araheemcis/python-django-ar3hello
+   repository2: araheemcis/python-django-gamesfronnt3
    tag: latest
 
 
